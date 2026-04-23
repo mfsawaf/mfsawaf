@@ -26,14 +26,3 @@ I’m a Computer Science student at Cairo University passionate about building c
 📫 Contact Me
 - 📧 Email: mohamedfaridelsawaf@gmail.com  
 - 💼 GitHub: https://github.com/mfsawaf  
-
----
-
-📊 This Week I Spent My Time On:
-<!--START_SECTION:waka-->
-```txt
-TypeScript    17 hrs 3 mins         ███████████████████▒░░░░░   77.93 %
-CSS           2 hrs 47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
-Markdown      53 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-JSON          23 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Python        19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
